@@ -1,41 +1,46 @@
-NEXORA AI — EcoVision
+*NEXORA AI — EcoVision*
 "Una sola cámara. Cuatro mundos protegidos."
-Resumen Ejecutivo
+
+*Resumen Ejecutivo*
 NEXORA AI — EcoVision es una plataforma inteligente basada en Inteligencia Artificial que transforma cualquier cámara de teléfono móvil en una herramienta de diagnóstico preventivo capaz de detectar riesgos ambientales, agrícolas, domésticos y educativos mediante análisis avanzado de imágenes.
+
 La solución nace ante la necesidad de contar con herramientas accesibles que permitan identificar problemas antes de que se conviertan en emergencias costosas o peligrosas. Actualmente, la mayoría de los sistemas de monitoreo requieren sensores especializados, equipos industriales o altos costos de implementación, limitando su acceso a millones de personas.
+
 EcoVision democratiza la prevención mediante IA, permitiendo que cualquier usuario capture una fotografía y reciba un diagnóstico inteligente acompañado de recomendaciones prácticas y alertas tempranas.
 Además, la plataforma incorpora un sistema de aprendizaje continuo que construye una base de conocimiento propia. Cada análisis realizado ayuda a mejorar la precisión de futuras recomendaciones. Por ejemplo, el sistema puede aprender qué sucede al sembrar una planta de clima costero en una zona de la Sierra, identificar patrones de comportamiento y generar recomendaciones más precisas para otros usuarios en situaciones similares.
 
-Problema
+*Problema*
 Miles de riesgos críticos pasan desapercibidos diariamente debido a la falta de herramientas de detección accesibles.
 Entre los principales desafíos se encuentran:
-Fugas de agua y humedad en viviendas.
-Aparición temprana de plagas en cultivos.
-Deterioro ambiental en espacios naturales.
-Problemas de infraestructura en instituciones educativas.
-Falta de monitoreo preventivo en zonas rurales.
-Las soluciones actuales suelen ser:
+-Fugas de agua y humedad en viviendas.
+-Aparición temprana de plagas en cultivos.
+-Deterioro ambiental en espacios naturales.
+-Problemas de infraestructura en instituciones educativas.
+-Falta de monitoreo preventivo en zonas rurales.
+-Las soluciones actuales suelen ser:
 Costosas.
 Dependientes de sensores especializados.
 Complejas de implementar.
 Enfocadas únicamente en un sector específico.
+
 Esto genera pérdidas económicas, riesgos para la salud y un impacto negativo sobre la sostenibilidad ambiental.
 
-Solución
+*Solución*
 NEXORA AI — EcoVision integra visión artificial, machine learning y asistentes inteligentes para analizar imágenes capturadas desde un dispositivo móvil y convertirlas en información útil para la toma de decisiones.
 La plataforma organiza su funcionamiento mediante una categoría central denominada Instalaciones Inteligentes, permitiendo monitorear diferentes espacios desde una sola plataforma:
-Instalaciones Inteligentes
-Viviendas
-Oficinas
-Instituciones educativas
-Fincas agrícolas
-Invernaderos
-Centros comunitarios
-Espacios productivos
+-Instalaciones Inteligentes
+-Viviendas
+-Oficinas
+-Instituciones educativas
+-Fincas agrícolas
+-Invernaderos
+-Centros comunitarios
+-Espacios productivos
+
 Cada instalación cuenta con historial propio, seguimiento de incidencias, análisis comparativos y monitoreo inteligente.
 Además, NEXORA AI aprende continuamente a partir de los análisis realizados, fortaleciendo su base de conocimiento y mejorando progresivamente la calidad de sus diagnósticos.
 
-¿Cómo Funciona?
+*¿Cómo Funciona?*
 1. Registro de la Instalación
 El usuario registra el espacio que desea monitorear, ya sea una vivienda, oficina, institución educativa, finca o cualquier otra instalación.
 2. Captura de Información
@@ -60,7 +65,7 @@ Por ejemplo:
 "Se detectó una posible plaga. Por favor comparte una nueva imagen para verificar su evolución."
 "La humedad detectada continúa aumentando. Se recomienda una revisión técnica."
 
-Propuesta de Valor
+*Propuesta de Valor*
 Lo que hace único a NEXORA AI
 No requiere sensores físicos costosos.
 Funciona únicamente con la cámara de un celular.
@@ -74,7 +79,7 @@ EcoBot actúa como asistente preventivo permanente.
 Escalable para comunidades rurales y urbanas.
 Fácil adopción para usuarios sin conocimientos técnicos.
 
-Objetivos de Desarrollo Sostenible (ODS)
+*Objetivos de Desarrollo Sostenible (ODS)*
 ODS Principal
 ODS 11 — Ciudades y Comunidades Sostenibles
 Contribuye a la creación de entornos más seguros, resilientes y sostenibles mediante la detección preventiva de riesgos.
