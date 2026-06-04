@@ -1,65 +1,147 @@
-# NEXORA-IA
-Aplicación par poner un sistema de vigilancia en camaras 
-2. Resumen Ejecutivo
-NEXORA AI  es una plataforma tecnológica inteligente basada en Inteligencia Artificial que utiliza análisis visual mediante imágenes para detectar problemas ambientales, agrícolas y domésticos antes de que generen daños graves.
-Actualmente, muchas personas detectan riesgos como humedad, filtraciones, plagas o deterioro ambiental demasiado tarde, ocasionando pérdidas económicas, daños estructurales y afectaciones a la salud. La mayoría de soluciones existentes requieren sensores costosos, dispositivos especializados o están enfocadas únicamente en un sector específico. NEXORA AI  busca democratizar el acceso a tecnología preventiva mediante una herramienta accesible que funciona utilizando únicamente la cámara de un celular.
-La plataforma permite: analizar imágenes, detectar anomalías, emitir alertas preventivas, generar diagnósticos inteligentes, almacenar historial de análisis, ofrecer recomendaciones mediante EcoBot.
-NEXORA AI integra cuatro módulos:
-Hogar
-Agricultura
-Ganadería
-Instituciones Educativas
-El proyecto combina: Inteligencia Artificial, análisis predictivo, dashboard inteligente, automatización preventiva, experiencia accesible para usuarios no técnicos.
-La visión de NEXORA AI es convertir una cámara común en una herramienta inteligente capaz de prevenir problemas cotidianos mediante IA accesible y sostenible.
-3. El Problema
-Actualmente, miles de problemas ambientales y domésticos no son detectados a tiempo debido a la falta de herramientas preventivas accesibles.
-En hogares: las fugas y humedades suelen identificarse cuando ya existen daños estructurales, muchas familias desconocen riesgos relacionados con moho y calidad ambiental.
-En agricultura: las plagas y enfermedades afectan cultivos antes de ser detectadas, pequeños agricultores no tienen acceso a sistemas tecnológicos avanzados.
-En instituciones educativas: no existen herramientas simples para monitorear riesgos ambientales dentro de espacios escolares.
-Además, la mayoría de soluciones inteligentes son costosas, requieren sensores especializados, están enfocadas en una sola industria, no son accesibles para estudiantes o comunidades pequeñas.
-Estadísticas Reales
-Según la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO), las plagas agrícolas generan pérdidas significativas en cultivos a nivel mundial cada año.
-La Organización Mundial de la Salud (OMS) indica que la humedad y el moho en los hogares pueden provocar problemas respiratorios y afectar la salud de las personas.
-Además, el mercado global de hogares inteligentes y automatización continúa creciendo debido al aumento del interés por soluciones sostenibles y preventivas.
-Encuestas y Validación Inicial
-El equipo realizó consultas y conversaciones con estudiantes, familias y usuarios potenciales sobre: problemas domésticos frecuentes, uso de tecnología inteligente, interés en automatización, prevención ambiental.
-Los resultados mostraron: interés en herramientas preventivas accesibles, necesidad de soluciones simples basadas en celular, cámaras de vigilancia o cualquier dispositivo conectado a una cámara, preocupación por problemas detectados demasiado tarde, interés en soluciones simples,  aceptación positiva hacia herramientas preventivas con IA.
-Análisis del Problema
-Se identificó una necesidad clara: crear una plataforma accesible que utiliza Inteligencia Artificial para detectar señales tempranas de riesgo mediante análisis visual. La oportunidad no está únicamente en automatizar procesos, sino en prevenir daños antes de que ocurran.
-NEXORA AI es una plataforma inteligente basada en IA que analiza imágenes para detectar posibles problemas ambientales, agrícolas y domésticos. La solución funciona mediante una aplicación web responsive compatible con computadoras y celulares.
-La plataforma permite: detectar humedad y filtraciones, identificar signos tempranos de plagas, analizar riesgos ambientales, generar diagnósticos automáticos, emitir alertas preventivas, almacenar historial de análisis, ofrecer recomendaciones mediante EcoBot.
-¿Cómo funciona?
-El usuario toma,  sube una fotografía o graba un video.
-La IA analiza la imagen.
-El sistema detecta anomalías o riesgos.
-Se genera un diagnóstico preventivo.
-El resultado se almacena en el dashboard.
-EcoBot brinda recomendaciones inmediatas, utiliza una base de datos con información como hora y fecha..
-ENCUESTAS Y ENTREVISTAS REALIZADAS:
-Uno de los aspectos más importantes del proyecto fue validar si el problema realmente existe y si las personas estarían interesadas en una solución basada en Inteligencia Artificial preventiva. Para ello, el equipo realizó encuestas, entrevistas y conversaciones con posibles usuarios del sistema.
-La validación se enfocó en: hogares, estudiantes, docentes, familias, personas interesadas en tecnología, en agricultura y sostenibilidad.
-El objetivo fue conocer: qué problemas detectan tarde, qué tan frecuente ocurre, cuánto interés existe en herramientas preventivas, si utilizarían una plataforma basada en IA desde un celular.
-Para validar el problema, se realizaron encuestas y entrevistas. Las preguntas principales fueron:
-¿Consideras innovador un sistema que utilice IA para prevenir riesgos mediante imágenes?
-¿Crees que muchas personas no tienen acceso a tecnología inteligente por su alto costo?
-¿Qué área te parece más útil para aplicar esta tecnología?
-¿Consideras que la tecnología puede ayudar a crear hogares y espacios más sostenibles?
-Los resultados obtenidos permitieron identificar varios hallazgos importantes:
-1. Existe un problema real: La mayoría de usuarios indicó haber detectado problemas demasiado tarde en hogares o espacios cercanos.
-2. Existe interés en tecnología preventiva: Los encuestados mostraron alta aceptación hacia herramientas basadas en Inteligencia Artificial.
-3. El celular es visto como la herramienta más accesible: Los usuarios prefieren soluciones que funcionen desde dispositivos que ya utilizan diariamente.
-4. Hogar y Agricultura son los módulos con mayor potencial:  Las respuestas permitieron priorizar los módulos del MVP para hacerlo más viable y realista.
-5. La accesibilidad económica es importante: Muchos usuarios consideran que las tecnologías inteligentes actuales son costosas o difíciles de implementar.
-¿POR QUÉ LAS SOLUCIONES ACTUALES NO SON SUFICIENTES?
-Las soluciones actuales no son suficientes porque muchas de ellas son costosas, complejas y están enfocadas únicamente en sectores específicos, lo que limita su acceso para familias, estudiantes, pequeños agricultores e instituciones educativas. Además, la mayoría requiere sensores especializados, dispositivos adicionales o conocimientos técnicos avanzados, dificultando su implementación en entornos cotidianos. Muchas herramientas solo detectan problemas cuando el daño ya es visible, en lugar de prevenirlos de manera temprana. Por esta razón, existe la necesidad de una solución más accesible, simple y preventiva como NEXORA IA, que utiliza Inteligencia Artificial y una cámara para identificar riesgos antes de que generen consecuencias mayores.
-4. Nuestra Solución
-NEXORA IA es una plataforma tecnológica basada en IA que permite analizar imágenes para detectar problemas ambientales, domésticos y agrícolas mediante monitoreo preventivo inteligente.
-La plataforma fue diseñada para funcionar desde dispositivos accesibles como celulares y computadoras, permitiendo que cualquier persona pueda utilizar tecnología avanzada sin necesidad de equipos especializados.
-NEXORA AI permite: detectar humedad y filtraciones, identificar señales tempranas de plagas, analizar deterioro ambiental, generar diagnósticos preventivos, emitir alertas inteligentes, almacenar historial de análisis, recomendar acciones mediante EcoBot.
-¿Cómo funciona? Flujo del sistema
-El usuario toma o sube una fotografía.
-La IA analiza la imagen.
-El sistema detecta posibles anomalías.
-Se genera un diagnóstico preventivo.
-El resultado aparece en el dashboard.
-EcoBot brinda recomendaciones inmediatas.
+NEXORA AI — EcoVision
+"Una sola cámara. Cuatro mundos protegidos."
+Resumen Ejecutivo
+NEXORA AI — EcoVision es una plataforma inteligente basada en Inteligencia Artificial que transforma cualquier cámara de teléfono móvil en una herramienta de diagnóstico preventivo capaz de detectar riesgos ambientales, agrícolas, domésticos y educativos mediante análisis avanzado de imágenes.
+La solución nace ante la necesidad de contar con herramientas accesibles que permitan identificar problemas antes de que se conviertan en emergencias costosas o peligrosas. Actualmente, la mayoría de los sistemas de monitoreo requieren sensores especializados, equipos industriales o altos costos de implementación, limitando su acceso a millones de personas.
+EcoVision democratiza la prevención mediante IA, permitiendo que cualquier usuario capture una fotografía y reciba un diagnóstico inteligente acompañado de recomendaciones prácticas y alertas tempranas.
+Además, la plataforma incorpora un sistema de aprendizaje continuo que construye una base de conocimiento propia. Cada análisis realizado ayuda a mejorar la precisión de futuras recomendaciones. Por ejemplo, el sistema puede aprender qué sucede al sembrar una planta de clima costero en una zona de la Sierra, identificar patrones de comportamiento y generar recomendaciones más precisas para otros usuarios en situaciones similares.
+
+Problema
+Miles de riesgos críticos pasan desapercibidos diariamente debido a la falta de herramientas de detección accesibles.
+Entre los principales desafíos se encuentran:
+Fugas de agua y humedad en viviendas.
+Aparición temprana de plagas en cultivos.
+Deterioro ambiental en espacios naturales.
+Problemas de infraestructura en instituciones educativas.
+Falta de monitoreo preventivo en zonas rurales.
+Las soluciones actuales suelen ser:
+Costosas.
+Dependientes de sensores especializados.
+Complejas de implementar.
+Enfocadas únicamente en un sector específico.
+Esto genera pérdidas económicas, riesgos para la salud y un impacto negativo sobre la sostenibilidad ambiental.
+
+Solución
+NEXORA AI — EcoVision integra visión artificial, machine learning y asistentes inteligentes para analizar imágenes capturadas desde un dispositivo móvil y convertirlas en información útil para la toma de decisiones.
+La plataforma organiza su funcionamiento mediante una categoría central denominada Instalaciones Inteligentes, permitiendo monitorear diferentes espacios desde una sola plataforma:
+Instalaciones Inteligentes
+Viviendas
+Oficinas
+Instituciones educativas
+Fincas agrícolas
+Invernaderos
+Centros comunitarios
+Espacios productivos
+Cada instalación cuenta con historial propio, seguimiento de incidencias, análisis comparativos y monitoreo inteligente.
+Además, NEXORA AI aprende continuamente a partir de los análisis realizados, fortaleciendo su base de conocimiento y mejorando progresivamente la calidad de sus diagnósticos.
+
+¿Cómo Funciona?
+1. Registro de la Instalación
+El usuario registra el espacio que desea monitorear, ya sea una vivienda, oficina, institución educativa, finca o cualquier otra instalación.
+2. Captura de Información
+El usuario puede:
+Tomar fotografías.
+Subir imágenes.
+Grabar videos.
+Compartir evidencias directamente con EcoBot.
+3. Análisis Inteligente
+Los modelos de Inteligencia Artificial procesan la información visual y detectan posibles riesgos o anomalías.
+4. Diagnóstico
+La plataforma genera un informe automático con hallazgos relevantes, posibles causas y nivel de riesgo.
+5. Recomendaciones
+EcoBot presenta acciones sugeridas para prevenir daños mayores y mejorar las condiciones observadas.
+6. Seguimiento Inteligente
+Toda la información queda almacenada en un dashboard inteligente para análisis histórico y toma de decisiones.
+Además, EcoBot puede programar seguimientos automáticos y solicitar nuevas fotografías para verificar la evolución de un problema detectado.
+7. Asistencia Virtual
+EcoBot acompaña al usuario permanentemente, respondiendo preguntas, explicando diagnósticos, generando alertas preventivas y recordando cuándo es necesario realizar un nuevo análisis.
+Por ejemplo:
+"Han pasado 7 días desde tu último análisis. ¿Deseas enviar una nueva fotografía?"
+"Se detectó una posible plaga. Por favor comparte una nueva imagen para verificar su evolución."
+"La humedad detectada continúa aumentando. Se recomienda una revisión técnica."
+
+Propuesta de Valor
+Lo que hace único a NEXORA AI
+No requiere sensores físicos costosos.
+Funciona únicamente con la cámara de un celular.
+Aprende continuamente con cada análisis realizado.
+Construye una base de conocimiento propia.
+Integra múltiples tipos de instalaciones en una sola plataforma.
+Utiliza Inteligencia Artificial para prevención temprana.
+Genera recomendaciones automáticas accionables.
+Realiza seguimiento inteligente de cada caso.
+EcoBot actúa como asistente preventivo permanente.
+Escalable para comunidades rurales y urbanas.
+Fácil adopción para usuarios sin conocimientos técnicos.
+
+Objetivos de Desarrollo Sostenible (ODS)
+ODS Principal
+ODS 11 — Ciudades y Comunidades Sostenibles
+Contribuye a la creación de entornos más seguros, resilientes y sostenibles mediante la detección preventiva de riesgos.
+ODS Secundarios
+ODS 4 — Educación de Calidad
+Mejora las condiciones de infraestructura educativa.
+ODS 9 — Industria, Innovación e Infraestructura
+Promueve la innovación tecnológica aplicada a problemas reales.
+ODS 13 — Acción por el Clima
+Favorece la detección temprana de impactos ambientales y fomenta prácticas sostenibles.
+
+Arquitectura Tecnológica
+Frontend
+React
+Tailwind CSS
+Inteligencia Artificial
+Claude Vision API
+Machine Learning
+Computer Vision
+Sistema de aprendizaje continuo
+Backend y Despliegue
+Vercel
+APIs Inteligentes
+Gestión de Datos
+Dashboard Analítico
+Historial de Incidencias
+Base de conocimiento evolutiva
+Validación Técnica
+Para garantizar la confiabilidad de las recomendaciones, NEXORA AI contempla alianzas estratégicas con:
+Ingenieros agrónomos.
+Ingenieros ambientales.
+Especialistas en sostenibilidad.
+Técnicos agrícolas.
+Instituciones educativas y organizaciones ambientales.
+Estos expertos ayudan a validar la información utilizada por la plataforma y fortalecen la calidad de los diagnósticos generados por la Inteligencia Artificial.
+Innovación Futura
+Blockchain para trazabilidad de registros y validación de evidencias.
+Integración con sensores opcionales.
+Modelos predictivos avanzados.
+Red colaborativa de expertos.
+
+MVP (Producto Mínimo Viable)
+La primera versión de EcoVision incluye:
+Análisis de imágenes mediante IA.
+Dashboard inteligente.
+Historial de diagnósticos.
+Alertas automáticas.
+EcoBot (asistente virtual).
+Seguimiento inteligente mediante recordatorios.
+Solicitud automática de nuevas evidencias.
+Interfaz responsive para dispositivos móviles.
+Sistema de recomendaciones inteligentes.
+Base de conocimiento en crecimiento continuo.
+
+Impacto Esperado
+Social
+Mejorar la seguridad y bienestar de las personas mediante prevención temprana y monitoreo inteligente.
+Ambiental
+Promover la protección de ecosistemas y la detección temprana de amenazas ambientales.
+Económico
+Reducir pérdidas derivadas de problemas detectados tardíamente y optimizar recursos mediante mantenimiento preventivo.
+Educativo
+Fortalecer la seguridad, mantenimiento y sostenibilidad de instituciones educativas.
+
+Visión
+Convertirnos en la plataforma líder de monitoreo preventivo basado en Inteligencia Artificial para instalaciones inteligentes, sostenibilidad y gestión de riesgos en América Latina.
+Imaginamos un futuro donde cualquier persona pueda prevenir problemas críticos utilizando únicamente la cámara de su teléfono móvil, apoyada por una Inteligencia Artificial que aprende continuamente y por una red de expertos que fortalecen la calidad del conocimiento generado.
+
+Slogan
+"Una sola cámara. Cuatro mundos protegidos."
