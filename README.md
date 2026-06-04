@@ -1,7 +1,7 @@
-#*NEXORA AI — EcoVision*#
+***NEXORA AI — EcoVision***
 "Una sola cámara. Cuatro mundos protegidos."
 
-*Resumen Ejecutivo*
+***Resumen Ejecutivo***
 NEXORA AI — EcoVision es una plataforma inteligente basada en Inteligencia Artificial que transforma cualquier cámara de teléfono móvil en una herramienta de diagnóstico preventivo capaz de detectar riesgos ambientales, agrícolas, domésticos y educativos mediante análisis avanzado de imágenes.
 
 La solución nace ante la necesidad de contar con herramientas accesibles que permitan identificar problemas antes de que se conviertan en emergencias costosas o peligrosas. Actualmente, la mayoría de los sistemas de monitoreo requieren sensores especializados, equipos industriales o altos costos de implementación, limitando su acceso a millones de personas.
@@ -9,7 +9,7 @@ La solución nace ante la necesidad de contar con herramientas accesibles que pe
 EcoVision democratiza la prevención mediante IA, permitiendo que cualquier usuario capture una fotografía y reciba un diagnóstico inteligente acompañado de recomendaciones prácticas y alertas tempranas.
 Además, la plataforma incorpora un sistema de aprendizaje continuo que construye una base de conocimiento propia. Cada análisis realizado ayuda a mejorar la precisión de futuras recomendaciones. Por ejemplo, el sistema puede aprender qué sucede al sembrar una planta de clima costero en una zona de la Sierra, identificar patrones de comportamiento y generar recomendaciones más precisas para otros usuarios en situaciones similares.
 
-*Problema*
+***Problema***
 Miles de riesgos críticos pasan desapercibidos diariamente debido a la falta de herramientas de detección accesibles.
 Entre los principales desafíos se encuentran:
 -Fugas de agua y humedad en viviendas.
