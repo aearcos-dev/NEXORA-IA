@@ -1,4 +1,4 @@
-*NEXORA AI — EcoVision*
+#*NEXORA AI — EcoVision*#
 "Una sola cámara. Cuatro mundos protegidos."
 
 *Resumen Ejecutivo*
